@@ -1,10 +1,8 @@
 
-      /* NOTE : Use web server to view HTML files as real-time update will not work if you directly open the HTML file in the browser. */
-      (function(d, m){
-        var kommunicateSettings = {"appId":"1d64deceed406611b4027e42ae3b82432","popupWidget":true,"automaticChatOpenOnNavigation":true};
+(function(d, m){
+        var kommunicateSettings = {"appId":"3b10ac6b5f96978c6d3f7feddfa19ffbe","popupWidget":true,"automaticChatOpenOnNavigation":true};
         var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
         s.src = "https://widget.kommunicate.io/v2/kommunicate.app";
         var h = document.getElementsByTagName("head")[0]; h.appendChild(s);
         window.kommunicate = m; m._globals = kommunicateSettings;
       })(document, window.kommunicate || {});
-
