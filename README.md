@@ -34,10 +34,10 @@ NLP
 
 #### Machine Learning Prediction
  
- * prediction_meanprice_sentiment.py - builds and train the models for 35 companies mentioned in the ticker. 
- * prediction_90_days.py -  forecasts 90 days values from the models created
- * mutualfund_data.ipynb - creates data(csv file) for the top mutual funds.
- * mutual_funds.py - builds and train the models for the top mutuals funds
+ * `prediction_meanprice_sentiment.py` - builds and train the models for 35 companies mentioned in the ticker. 
+ * `prediction_90_days.py` -  forecasts 90 days values from the models created
+ * `mutualfund_data.ipynb` - creates data(csv file) for the top mutual funds.
+ * `mutual_funds.py` - builds and train the models for the top mutuals funds
  * 
  
 #### Chatbot
