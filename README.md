@@ -24,7 +24,7 @@ This repo presents code in 3 module given below:
 #### Edgar reports scrapping and Sentimental analysis
 NLP
 
- * filegen.py - create a CSV file which contains all the information on edgar reports including 10-K and 10-Q.
+ * `filegen.py` - create a CSV file which contains all the information on edgar reports including 10-K and 10-Q.
  * bulkdl.py - this file downloads all the Edgar reports provided in the cik master csv file. 
  * clean_rawfile.py - cleans all the edgar reports provided in the csv file by removing all the html tags.
  * sentiment_score.py - create a csv file by running sentiments analysis on all the clean files created from edgar reports
