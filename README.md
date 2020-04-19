@@ -1,3 +1,1 @@
-# cmpt733
-
-####Strategic Asset Allocation
+#Strategic Asset Allocation
