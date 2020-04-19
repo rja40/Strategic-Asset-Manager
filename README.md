@@ -34,7 +34,9 @@ NLP
 
 #### Machine Learning Prediction
  
- * prediction_meanprice_sentiment.py - builds and save models for 35 companies mentioned in the ticker. 
- * prediction_90days.py -  the 90
+ * prediction_meanprice_sentiment.py - builds and train the models for 35 companies mentioned in the ticker. 
+ * prediction_90days.py -  forecasts 90 days values from the models created
+ * mutual_funds.py - builds and train the models for top mutuals funds
+ 
 #### Chatbot
 
