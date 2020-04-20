@@ -3,7 +3,7 @@
 ## Introduction
 The project forecasts company's stocks price taking into account its historical performance, sentimental analysis on Edgar reports, legal proceeding sections and sentimental anaylsis on global news concerning the companies.
 
-This repo presents code in 3 module given below:
+This repo presents code in 4 module given below:
 
 ## Set up
 #### Libraries and Requirements
@@ -47,6 +47,12 @@ This repo presents code in 3 module given below:
 * `lambda_function.py` - 
 * 
 
+#### News
+
+##### news
+ * ``
+ * ``
+ 
 Remaining files in the assets and pages are related to the web UI created for this project
 
 #### Running Instructions
