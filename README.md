@@ -2,6 +2,7 @@
 
 ## Introduction
 The project forecasts company's stocks price taking into account its historical performance, sentimental analysis on Edgar reports, legal proceeding sections and sentimental anaylsis on global news concerning the companies.
+
 This repo presents code in 3 module given below:
 
 ## Set up
