@@ -45,13 +45,12 @@ This repo presents code in 4 module given below:
 ##### chatbot
 
 * `lambda_function.py` - 
-* 
 
 #### News
 
 ##### news
- * ``
- * ``
+ * `sentiment_analysis_news.ipynb` - 
+ * `bigquery.py` - 
  
 Remaining files in the assets and pages are related to the web UI created for this project
 
