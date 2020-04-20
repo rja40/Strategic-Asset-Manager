@@ -20,6 +20,7 @@ This repo presents code in 3 module given below:
 * Gensim
 * Boto3
 * Paramiko
+* Dash
 
 #### Edgar reports scrapping and Sentimental analysis
 ##### NLP
