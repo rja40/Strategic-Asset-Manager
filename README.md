@@ -29,7 +29,6 @@ This repo presents code in 3 module given below:
  * `clean_rawfile.py` - cleans all the edgar reports provided in the csv file by removing all the html tags
  * `sentiment_score.py` - creates a csv file by running sentiments analysis on all the clean files created from edgar reports
  * `similarity_legalproceedings.ipynb` - extracts the legal proceedings section from Edgar reports and calculate the similarity index from all its previous years files
- *  
 
 
 #### Machine Learning Prediction
