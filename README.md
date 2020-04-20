@@ -48,3 +48,7 @@ This repo presents code in 3 module given below:
 
 Remaining files in the assets and pages are related to the web UI created for this project
 
+#### Running Instructions
+
+`python3 index.py` - to run the application 
+
