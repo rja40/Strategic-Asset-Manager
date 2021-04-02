@@ -5,6 +5,8 @@ The project forecasts company's stocks price taking into account its historical 
 
 This repo presents code in 4 module given below:
 
+## 3 Mins Working Demo https://www.youtube.com/watch?v=5HZyUnGaipw
+
 ## Set up
 #### Libraries and Requirements
 
